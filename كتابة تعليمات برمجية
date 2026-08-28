@@ -1,0 +1,17 @@
+ai-lifepilot/
+│
+├── index.html
+├── style.css
+├── script.js
+│
+├── ar/
+│   ├── about.html
+│   ├── privacy.html
+│   ├── terms.html
+│   └── contact.html
+│
+└── en/
+    ├── about.html
+    ├── privacy.html
+    ├── terms.html
+    └── contact.html
