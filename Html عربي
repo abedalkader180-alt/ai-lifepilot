@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <title>عن المنصة – AI LifePilot</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+
+<header class="hero">
+    <h1>عن منصة AI LifePilot</h1>
+    <p>منصة ذكاء اصطناعي تنظّم حياتك بالكامل.</p>
+</header>
+
+<section class="features">
+    <div class="feature">
+        <h3>تنظيم تلقائي</h3>
+        <p>النظام يبني يومك بدون تدخل منك.</p>
+    </div>
+    <div class="feature">
+        <h3>تحليل ذكي</h3>
+        <p>يفهم نمط حياتك ويعدّل خططك.</p>
+    </div>
+</section>
+
+</body>
+</html>
